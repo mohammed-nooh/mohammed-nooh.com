@@ -6,7 +6,7 @@ Its coming up tomorrow when i learn HTML and CSS with tanay pratap live on youtu
 
 for now i know:
 
-1.javascript
-2.node.js
-3.replit
-4.chalk
+    1.javascript
+    2.node.js
+    3.replit
+    4.chalk

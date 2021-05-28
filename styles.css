@@ -82,6 +82,9 @@ hr {
 
 }
 
+
+
+
 /* list part over  */
 
 
@@ -217,3 +220,12 @@ hr {
 
 
 /* footer part over  */
+
+/* blog part  */
+
+.blog-head{
+
+    text-decoration: none;
+    color:var(--primary-color);
+
+}

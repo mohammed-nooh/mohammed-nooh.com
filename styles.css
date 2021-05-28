@@ -29,7 +29,7 @@ body {
 
 
 hr {
-    margin: 1rem 0rem;
+    margin: 2rem 0rem;
 }
 
 /* container part over  */
@@ -42,7 +42,7 @@ hr {
 .link{
      text-decoration:none;
      padding: 0.5rem;
-     border-radius: 7%;
+     border-radius: 0.5rem;
      margin: 00.5rem 0.3rem;
 }
 
@@ -66,5 +66,15 @@ hr {
 /* link part over  */
 
 
+/* lists part  */
 
+.list-non-bullet{
+    list-style: none;
 
+}
+
+.list-item-inline{
+    display: inline;
+    padding:0.3rem;
+
+}

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+
+
+
+body {
+
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+/* container part  */
+
+
+.container {
+    padding: 0.5rem 1rem;
+}
+
+.container-center {
+    max-width: 650px;
+    margin: auto;
+}
+
+
+hr {
+    margin: 1rem 0rem;
+}
+
+/* container part over  */
+
+
+
+/* link part  */
+
+

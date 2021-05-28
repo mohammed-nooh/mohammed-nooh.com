@@ -46,7 +46,7 @@ hr {
     text-decoration: none;
     padding: 0.5rem;
     border-radius: 0.5rem;
-    margin: 00.5rem 0.3rem;
+    margin: 00.7rem 0rem ;
 }
 
 
@@ -98,13 +98,18 @@ hr {
     border-bottom-left-radius: 0.5rem;
     font-size:1.5rem;
     border-bottom-left-radius: 0.5rem;
-    padding:0.5rem 1rem;
+    padding:1rem 1rem;
     background-color: var(--primary-color);
    
 }
 
+
+.link-active{
+    font-weight: bold;
+}
+
 .nav-bar-item{
-    padding:0.5rem 1rem;
+    padding:1rem 1rem;
     text-decoration:none;
     color:white;
     border-radius: 0.5rem;
@@ -133,6 +138,7 @@ hr {
 .header-hero{
     color:var(--dark-grey);
     font-size: 2rem;
+    margin:1rem 0rem;
     
 
 }
@@ -178,7 +184,8 @@ hr {
 
 .footer{
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    margin-bottom: 0rem;
 }
 
 .footer .footer-head{

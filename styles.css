@@ -12,6 +12,7 @@
 body {
 
     font-family: 'Open Sans', sans-serif;
+    margin: 0px;
 
 }
 
@@ -89,6 +90,7 @@ hr {
 
 
 .nav-bar{
+    margin:0;
     display:flex;
     width:auto;
     justify-content: flex-end;

@@ -4,6 +4,8 @@
 :root {
     --primary-color: #D97706;
     --dark-grey: #9CA3AF;
+    --off-white:#F3F4F6;
+
 
 }
 
@@ -82,7 +84,7 @@ hr {
 /* list part over  */
 
 
-
+/* nav bar part  */
 
 
 
@@ -111,3 +113,98 @@ hr {
     background:#B45309;
 
 }
+
+
+/* nav bar part over  */
+
+
+/* header part  */
+
+.header{
+    margin:0.5rem auto;
+    text-align: center;
+    
+
+}
+
+
+.header-hero{
+    color:var(--dark-grey);
+    font-size: 2rem;
+    
+
+}
+
+.header-image{
+    max-width:30%;
+    max-height: 30%;
+    margin:2rem;
+}
+
+
+
+.header-hero-inverted{
+    color: var(--primary-color);
+}
+
+/* header part over  */
+
+
+/* section part  */
+
+.section{
+    padding: 2rem;
+}
+
+.section h1{
+    text-align: center;
+   padding:1rem 0rem ;
+
+}
+
+.ow{
+   background-color: var(--off-white);
+}
+
+
+
+/* section part over  */
+
+
+/* footer part  */
+
+
+.footer{
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+}
+
+.footer .footer-head{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    
+}
+
+.footer-bar{
+    display: flex;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    padding:1rem;
+
+}
+
+.footer-bar-item{
+    padding:1rem;
+    text-decoration: none;
+    color:white;
+    font-size:1.2rem;
+}
+
+.footer-bar-item:hover{
+    font-weight:bold;
+}
+
+
+/* footer part over  */

@@ -154,6 +154,11 @@ hr {
 }
 
 
+.project-head{
+    color:var(--primary-color);
+}
+
+
 
 .header-hero-inverted{
     color: var(--primary-color);

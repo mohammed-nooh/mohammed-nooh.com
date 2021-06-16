@@ -131,8 +131,9 @@ hr {
 /* header part  */
 
 .header{
-    margin:0.5rem auto;
+    margin:1rem auto 5rem auto;
     text-align: center;
+    
     
 
 }

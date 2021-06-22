@@ -2,11 +2,10 @@
 
 Hey! welocome to my portfolio.
 
-Its coming up tomorrow when i learn HTML and CSS with tanay pratap live on youtube.
-
-for now i know:
+Iam currently learning the following stack:
 
     1.javascript
     2.node.js
-    3.replit
-    4.chalk
+    3.html
+    4.css
+    5.react

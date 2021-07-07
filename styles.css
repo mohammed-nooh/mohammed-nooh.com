@@ -111,6 +111,7 @@ hr {
     
     .nav-bar{
         font-size: 1rem;
+    
     }
    
 }
@@ -165,7 +166,7 @@ hr {
 
 @media(max-width:450px){
     .header-image{
-        max-width: 50%;
+        max-width: 60%;
         max-height: 50%;
     }
 }

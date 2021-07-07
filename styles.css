@@ -13,6 +13,7 @@ body {
 
     font-family: 'Open Sans', sans-serif;
     margin: 0px;
+    overflow-x: hidden;
 
 }
 
@@ -104,6 +105,13 @@ hr {
     padding:1rem 1rem;
     background-color: var(--primary-color);
    
+}
+
+@media(max-width:450px){
+    
+    .nav-bar{
+        font-size: 1rem;
+    }
 }
 
 
@@ -219,12 +227,6 @@ hr {
 
 .footer-bar-item:hover{
     font-weight:bold;
-}
-
-@media(max-width:450px){
-    .footer-head{
-        font-size: 1.3rem;
-    }
 }
 
 /* footer part over  */

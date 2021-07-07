@@ -235,6 +235,11 @@ hr {
     font-weight:bold;
 }
 
+@media(max-width:450px){
+    .footer-head{
+        font-size: 1.3rem;
+    }
+}
 
 /* footer part over  */
 

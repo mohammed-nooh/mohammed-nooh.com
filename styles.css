@@ -234,6 +234,7 @@ hr {
 
 .footer-bar-item:hover{
     font-weight:bold;
+    
 }
 
 @media(max-width:450px){

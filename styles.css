@@ -112,6 +112,7 @@ hr {
     .nav-bar{
         font-size: 1rem;
     }
+   
 }
 
 
@@ -162,7 +163,12 @@ hr {
 }
 
 
-
+@media(max-width:450px){
+    .header-image{
+        max-width: 60%;
+        max-height: 50%;
+    }
+}
 
 
 .header-hero-inverted{

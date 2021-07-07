@@ -106,6 +106,12 @@ hr {
    
 }
 
+@media(max-width:450px){
+    .nav-bar{
+    font-size: 1rem;
+}
+}
+
 
 .link-active{
     font-weight: bold;
@@ -151,6 +157,14 @@ hr {
     max-width:30%;
     max-height: 30%;
     margin:2rem;
+}
+
+@media(max-width:450px){
+    .header-image{
+        max-width: 60%;
+        max-height: 50%;
+        
+    }
 }
 
 

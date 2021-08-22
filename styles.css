@@ -253,3 +253,14 @@ hr {
     color:var(--primary-color);
 
 }
+
+
+
+/* blog pages */
+
+
+#blog-page{
+    margin: auto;
+    text-align: center;
+    max-width: 600px;
+}

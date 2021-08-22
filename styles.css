@@ -262,10 +262,17 @@ hr {
 #blog-page{
     margin: auto;
     text-align: center;
-    max-width: 600px;
+    max-width: 650px;
 }
 
 #blog1image{
     max-width: 60%;
     object-fit: cover;
+}
+
+#blog-main{
+    margin-top: 3rem;
+    font-size: 1.2rem;
+    text-align: justify;
+    line-height: 2rem;
 }

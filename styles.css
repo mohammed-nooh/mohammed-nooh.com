@@ -264,3 +264,8 @@ hr {
     text-align: center;
     max-width: 600px;
 }
+
+#blog1image{
+    max-width: 60%;
+    object-fit: cover;
+}

@@ -265,6 +265,8 @@ hr {
     max-width: 650px;
 }
 
+
+
 #blog1image{
     max-width: 60%;
     object-fit: cover;
@@ -275,4 +277,27 @@ hr {
     font-size: 1.2rem;
     text-align: justify;
     line-height: 2rem;
+}
+
+
+/* blog2 starting */
+
+#blog-heading{
+    text-align: center;
+}
+
+.blog-sub-heading{
+    text-align: left;
+}
+
+.blog-section{
+    margin-top: 2rem;
+}
+
+.blog-code{
+    line-height: 0;
+    margin-top: 20rem;
+    text-align: left;
+    background-color: wheat;
+    border-left:10px solid black;
 }
